@@ -1,0 +1,8 @@
+JVB_HOSTNAME=jitsin1.devopsk8s.cf
+JVB_SECRET=oP7EENKW
+
+org.jitsi.videobridge.xmpp.user.shard.HOSTNAME=localhost
+org.jitsi.videobridge.xmpp.user.shard.DOMAIN=auth.jitsin1.devopsk8s.cf	
+org.jitsi.videobridge.xmpp.user.shard.PASSWORD=oP7EENKW
+org.jitsi.videobridge.xmpp.user.shard.MUC_JIDS=JvbBrewery@internal.auth.jitsin1.devopsk8s.cf
+org.jitsi.videobridge.xmpp.user.shard.MUC_NICKNAME=c44c75d0-3c3e-4a67-b8f1-75ad578bba0e
